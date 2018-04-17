@@ -1,0 +1,13 @@
+[{
+        "item": "pen",
+        "rate": 10,
+        "qty": 1,
+        "gst": 5
+    },
+    {
+        "item": "book",
+        "rate": 100,
+        "qty": 1,
+        "gst": 4.5
+    }
+]

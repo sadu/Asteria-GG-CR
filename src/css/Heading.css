@@ -1,0 +1,45 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    width: 110%;
+}
+
+.cell {
+    border-width: thin;
+    border: 1px solid #999;
+    box-sizing: border-box;
+}
+
+.heading {
+    height: 40px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+.title {
+    height: 40px;
+    border: none;
+    font-size: medium;
+    text-align: left;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+@media all and (max-width: 1200px) {
+    div {
+        font-size: 1.5em;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    div {
+        font-size: 1.0em;
+    }
+}
+
+@media all and (max-width: 500px) {
+    div {
+        font-size: 0.8em;
+    }
+}

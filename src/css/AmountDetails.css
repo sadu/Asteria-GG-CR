@@ -1,0 +1,42 @@
+p {
+    height: 1px;
+}
+
+.total {
+    font-weight: bold;
+    font-size: large;
+}
+
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 25px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.cell1 {
+    border-width: thin;
+    border: none;
+    height: 30px;
+    text-align: right;
+    box-sizing: border-box;
+}
+
+@media all and (max-width: 1200px) {
+    div {
+        font-size: 1.5em;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    div {
+        font-size: 1.0em;
+    }
+}
+
+@media all and (max-width: 500px) {
+    div {
+        font-size: 0.8em;
+    }
+}
