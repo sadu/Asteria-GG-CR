@@ -1,0 +1,36 @@
+{
+  "points": [
+    {
+      "location": "12.917108, 77.622839",
+      "label": "Silk Board"
+    },
+    {
+      "location": "12.920707, 77.665055",
+      "label": "Iblur"
+    },
+    {
+      "location": "12.938424, 77.694351",
+      "label": "Kabudeesanahalli"
+    },
+    {
+      "location": "12.956924, 77.701132",
+      "label": "Marathahalli"
+    },
+    {
+      "location": "12.988076, 77.689512",
+      "label": "Mahadevapura"
+    },
+    {
+      "location": "13.000396, 77.677012",
+      "label": "Chinnappa Colony"
+    },
+    {
+      "location": "12.984010, 77.640554",
+      "label": "Indiranagar"
+    },
+    {
+      "location": "12.960775, 77.641606",
+      "label": "Domlur"
+    }
+  ]
+}
